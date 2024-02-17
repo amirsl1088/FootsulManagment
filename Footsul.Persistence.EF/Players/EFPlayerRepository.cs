@@ -19,5 +19,20 @@ namespace Footsul.Persistence.EF.Players
         {
             _context.Players.Add(player);
         }
+
+        public void Delete(Player player)
+        {
+            _context.Players.Remove(player);
+        }
+
+        public List<Player> GetPlayers()
+        {
+            return _context.Players.ToList();
+        }
+
+        public void Update()
+        {
+            
+        }
     }
 }

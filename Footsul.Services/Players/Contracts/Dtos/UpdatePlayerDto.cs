@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Footsul.Entities
+namespace Footsul.Services.Players.Contracts.Dtos
 {
-   public class Player
+    public class UpdatePlayerDto
     {
-        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime BirthDay { get; set; }
-        public Team Team { get; set; }
-        public int TeamId { get; set; }
     }
 }

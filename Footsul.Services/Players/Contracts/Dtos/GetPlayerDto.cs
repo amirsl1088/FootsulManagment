@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Footsul.Services.Players.Contracts.Dtos
 {
-    internal class GetPlayerDto
+    public class GetPlayerDto
     {
+        public int Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public DateTime BirthDay { get; set; }
     }
 }

@@ -15,9 +15,24 @@ namespace Footsul.RestApi.Controllers
             _service = service;
         }
         [HttpPost]
-        public async Task Add(AddPlayerDto dto)
+        public async Task Add([FromBody]AddPlayerDto dto)
         {
             await _service.Add(dto);
+        }
+        [HttpGet]
+        public List<GetPlayerDto> GetPlayers([FromQuery]FilterGetDto dto)
+        {
+            return _service.GetPlayers(dto);
+        }
+        [HttpPut]
+        public async Task Update([FromQuery]int id,[FromBody] UpdatePlayerDto dto)
+        {
+            await _service.Update(id, dto);
+        }
+        [HttpDelete]
+        public async Task Delete([FromQuery]DeletePlayerDto dto)
+        {
+            await _service.Delete(dto);
         }
     }
 }

@@ -12,5 +12,6 @@ namespace Footsul.Entities
         public string Name { get; set; }
         public Color FirstKit { get; set; }
         public Color SecondKit { get; set; }
+        public HashSet<Player> Players { get; set; }
     }
 }

@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace Footsul.Services.Players.Contracts.Dtos
 {
-    public class FilterGetDto
+    public class DeletePlayerDto
     {
-        public string? FirstName { get; set; }
-        
-        public DateTime? BirthDay { get; set; }
+        public int Id { get; set; }
     }
 }

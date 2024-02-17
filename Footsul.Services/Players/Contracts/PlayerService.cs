@@ -10,5 +10,8 @@ namespace Footsul.Services.Players.Contracts
     public  interface PlayerService
     {
         Task Add(AddPlayerDto dto);
+        List<GetPlayerDto> GetPlayers(FilterGetDto dto);
+        Task Update(int id, UpdatePlayerDto dto);
+        Task Delete(DeletePlayerDto dto);
     }
 }
