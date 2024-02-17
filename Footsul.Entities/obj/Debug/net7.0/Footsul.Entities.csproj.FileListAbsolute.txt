@@ -1,0 +1,12 @@
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\bin\Debug\net7.0\Footsul.Entities.deps.json
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\bin\Debug\net7.0\Footsul.Entities.dll
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\bin\Debug\net7.0\Footsul.Entities.pdb
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\obj\Debug\net7.0\Footsul.Entities.csproj.AssemblyReference.cache
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\obj\Debug\net7.0\Footsul.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\obj\Debug\net7.0\Footsul.Entities.AssemblyInfoInputs.cache
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\obj\Debug\net7.0\Footsul.Entities.AssemblyInfo.cs
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\obj\Debug\net7.0\Footsul.Entities.csproj.CoreCompileInputs.cache
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\obj\Debug\net7.0\Footsul.Entities.dll
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\obj\Debug\net7.0\refint\Footsul.Entities.dll
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\obj\Debug\net7.0\Footsul.Entities.pdb
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Entities\obj\Debug\net7.0\ref\Footsul.Entities.dll

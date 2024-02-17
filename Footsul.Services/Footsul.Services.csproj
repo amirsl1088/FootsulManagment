@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Footsul.Entities\Footsul.Entities.csproj" />
+    <ProjectReference Include="..\Taav.Contracts\Taav.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

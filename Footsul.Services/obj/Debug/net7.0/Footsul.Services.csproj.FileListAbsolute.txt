@@ -1,0 +1,17 @@
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\bin\Debug\net7.0\Footsul.Services.deps.json
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\bin\Debug\net7.0\Footsul.Services.dll
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\bin\Debug\net7.0\Footsul.Services.pdb
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\bin\Debug\net7.0\Footsul.Entities.dll
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\bin\Debug\net7.0\Taav.Contracts.dll
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\bin\Debug\net7.0\Footsul.Entities.pdb
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\bin\Debug\net7.0\Taav.Contracts.pdb
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\Footsul.Services.csproj.AssemblyReference.cache
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\Footsul.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\Footsul.Services.AssemblyInfoInputs.cache
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\Footsul.Services.AssemblyInfo.cs
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\Footsul.Services.csproj.CoreCompileInputs.cache
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\Footsul.Services.csproj.CopyComplete
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\Footsul.Services.dll
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\refint\Footsul.Services.dll
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\Footsul.Services.pdb
+C:\Users\StockRayaneGostar\source\repos\FootsulManagment\Footsul.Services\obj\Debug\net7.0\ref\Footsul.Services.dll

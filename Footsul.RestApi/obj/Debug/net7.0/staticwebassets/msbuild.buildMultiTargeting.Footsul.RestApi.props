@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Footsul.RestApi.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9z5bLr7LbG6hiAWsymfHzQq/hvoWm8VuQeArlOq4xro=",
+  "Source": "Footsul.RestApi",
+  "BasePath": "_content/Footsul.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

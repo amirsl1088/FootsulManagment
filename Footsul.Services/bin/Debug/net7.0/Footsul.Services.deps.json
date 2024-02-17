@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Footsul.Services/1.0.0": {
+        "dependencies": {
+          "Footsul.Entities": "1.0.0",
+          "Taav.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Footsul.Services.dll": {}
+        }
+      },
+      "Footsul.Entities/1.0.0": {
+        "runtime": {
+          "Footsul.Entities.dll": {}
+        }
+      },
+      "Taav.Contracts/1.0.0": {
+        "runtime": {
+          "Taav.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Footsul.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Footsul.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Taav.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
